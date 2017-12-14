@@ -1,0 +1,4 @@
+1- Não pois ao torna uma classe abstrata ele faz torna impossível a instânciação da classe, pois uma classe abstrata serve somente como modelo para a criação de filhas.
+2-A classe ClasseConcreta precisa reescrever o método imprimaAlgo pois quando se instancia de uma classe abstrata ela assina um tipo de contrato que exige a reescrita de métodos abstratos, e támbem em outros casos honra o construtor
+3-Ocorrerá um erro pois o método foi herdado mas não possui corpo o que prejudica a execução.
+10 - pois estamos criando uma array de referencia, não é uma instancia e sim so referencias que a apontam para objetos daquele tipo, que serve para armazenar suas herdeiras.
